@@ -76,7 +76,7 @@ format with 8-bit samples (i.e. total of 32-bit per pixel) and then
 store the relevant components from there into real arrays. This is the
 same path as used by \code{native=TRUE} and so differs only in the
 output value. Note that conversion may result in different values than
-direct acccess as it is intended mainly for viewing and not computation.
+direct access as it is intended mainly for viewing and not computation.
 }
 %\references{
 %}
